@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ### A third section??
 
 Yeah, I guess so...Just to show some depth ;)
+
+#### how to contribute to this repo
